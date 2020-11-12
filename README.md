@@ -15,7 +15,7 @@
 [Javascript Certificate]()
 
 
-[jlord patchwork](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/PNU_3991_AR-main/jlord%20patchwork.pdf)
+[jlord patchwork](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/jlord%20patchwork.pdf)
 
 -------------------
 # گروه های مهسا حیدری
