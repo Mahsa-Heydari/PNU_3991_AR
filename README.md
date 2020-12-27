@@ -9,7 +9,7 @@
 - [resume](https://mahsa-heydari.github.io/)
   : رزومه
 - [SOP](https://mahsa-heydari.github.io/SOP/)
-  :انگیزنه نامه 
+  :انگیزه نامه 
   
 ------------------
 
