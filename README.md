@@ -1,7 +1,7 @@
 # PNU_3991_AR
 ---------
 ### مهسا حیدری
- ### شماره دانشجویی:949728209
+### شماره دانشجویی:949728209
 ---
 - [PNU_3991_AR](https://github.com/Mahsa-Heydari/PNU_3991_AR)
 - [github account](https://github.com/Mahsa-Heydari/)
@@ -12,6 +12,7 @@
   :انگیزه نامه 
   
 ------------------
+
 
 [Javascript Certificate](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/JavaScript_Certificate.pdf)
 
@@ -24,7 +25,27 @@
 [Slide presentation by LaTeX](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/M.heydarisliade.pdf)
 
 -------------------
-# گروه های مهسا حیدری
+
+### ارزیابی
+
+- ارزیابی عمومی
+
+
+[ارزیابی انگیزه نامه و رزومه]()
+
+
+[خلاصه ارزیابی بخش عمومی]()
+
+
+- ارزیابی دروس تخصصی
+
+
+[خلاصه ارزیابی درس روش پژوهش و ارائه]()
+
+
+--------------------
+
+### اعضای گروه مهسا حیدری
 
 
 1. G-R01
