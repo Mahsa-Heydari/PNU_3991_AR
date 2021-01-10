@@ -19,7 +19,7 @@
 ## فعالیت های گروهی
 
 - [معرفی دروس مشابه در دانشگاهی دیگر]()
-- [معرفی پایان نامه]()
+- [معرفی پایان نامه](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/%D9%85%D8%B9%D8%B1%D9%81%DB%8C%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D9%86%D8%A7%D9%85%D9%87/fundementalconceptesofresearchmetodolgy_201028_221150.pdf)
 
 
 ---------------------
