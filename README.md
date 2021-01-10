@@ -1,12 +1,7 @@
 # PNU_3991_AR
 ---------
 ### مهسا حیدری
----
-- [PNU_3991_AR](https://github.com/Mahsa-Heydari/PNU_3991_AR)
-- [github account](https://github.com/Mahsa-Heydari/)
-- [resume](https://mahsa-heydari.github.io/)
-- [SOP](https://mahsa-heydari.github.io/SOP/)
-  
+# شماره دانشجویی : 949728209
 ------------------
 ### فعالیت های انفرادی
 
