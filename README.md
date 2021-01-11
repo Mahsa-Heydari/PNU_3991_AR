@@ -12,14 +12,14 @@
 - [SOP](https://mahsa-heydari.github.io/SOP/)
 - [Javascript Certificate](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/JavaScript_Certificate.pdf)
 - [jlord patchwork](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/jlord%20patchwork.pdf)
-- [Type LaTeX from pages 49 to 51](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/m.heydari.pdf)
-- [Slide presentation by LaTeX](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/M.heydarisliade.pdf)
+- [Type LaTeX from pages 49 to 51](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Type%20LaTeX%20-%20Pages%2049%20to%2051/m.heydari.pdf)
+- [Slide presentation by LaTeX](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Slide%20presentation/M.heydarisliade.pdf)
 
 -------------------
 ## فعالیت های گروهی
 
-- [معرفی دروس مشابه در دانشگاهی دیگر]()
-- [معرفی پایان نامه](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/%D9%85%D8%B9%D8%B1%D9%81%DB%8C%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D9%86%D8%A7%D9%85%D9%87/fundementalconceptesofresearchmetodolgy_201028_221150.pdf)
+- [Similar_Courses](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Similar_Courses/adelaide%20university.pdf)
+- [Dissertation](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Dissertation/dissertation_final.pdf)
 
 
 ---------------------
