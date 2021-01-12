@@ -29,15 +29,15 @@
 - ارزیابی عمومی
 
 
-     [ارزیابی انگیزه نامه و رزومه]()
+     [ارزیابی انگیزه نامه و رزومه](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Assessment/General/MH_CV_CheckList_AR_3991.pdf)
      
-     [خلاصه ارزیابی بخش عمومی]()
+     [خلاصه ارزیابی بخش عمومی](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Assessment/General/MH_GeneralSection_CheckList_AR_3991.pdf)
 
 
-- ارزیابی دروس کارشناسی
+- ارزیابی اختصاصی
 
 
-     [خلاصه ارزیابی درس روش پژوهش و ارائه]()
+     [خلاصه ارزیابی درس روش پژوهش و ارائه](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Assessment/ResearchAndPresentationMethods/MH_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 
 --------------------
