@@ -10,8 +10,8 @@
 - [github account](https://github.com/Mahsa-Heydari/)
 - [resume](https://mahsa-heydari.github.io/)
 - [SOP](https://mahsa-heydari.github.io/SOP/)
-- [Javascript Certificate](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/JavaScript_Certificate.pdf)
-- [jlord patchwork](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/jlord%20patchwork.pdf)
+- [Javascript Certificate](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Certificates/JavaScript_Certificate.pdf)
+- [jlord patchwork](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Certificates/jlord%20patchwork.pdf)
 - [Type LaTeX from pages 49 to 51](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Type%20LaTeX%20-%20Pages%2049%20to%2051/m.heydari.pdf)
 - [Slide presentation by LaTeX](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Slide%20presentation/M.heydarisliade.pdf)
 
