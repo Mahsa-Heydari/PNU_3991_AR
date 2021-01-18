@@ -13,8 +13,8 @@
 - [Javascript Certificate](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Certificates/JavaScript_Certificate.pdf)
 - [jlord patchwork](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Certificates/jlord%20patchwork.pdf)
 - [Type LaTeX from pages 49 to 51](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Type%20LaTeX%20-%20Pages%2049%20to%2051/m.heydari.pdf)
-- [Slide presentation by LaTeX](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Slide%20presentation/mahsa%20heydari%20slide.pdf)
-
+- [Slide presentation_En](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Slide%20presentation/mahsa%20heydari%20slide.pdf)
+- [Slide presentation_Fa](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Slide%20presentation/M.heydarisliade.pdf)
 -------------------
 ## فعالیت های گروهی
 
