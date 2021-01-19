@@ -15,6 +15,9 @@
 - [Type LaTeX from pages 49 to 51](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Type%20LaTeX%20-%20Pages%2049%20to%2051/m.heydari.pdf)
 - [Slide presentation_EN](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Slide%20presentation/mahsa%20heydari%20slide.pdf)
 - [Slide presentation_FA](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Slide%20presentation/M.heydarisliade.pdf)
+- [presentation-video](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/Slide%20presentation/Video/M.Heydari_Presentation.m4v)
+
+
 -------------------
 ## فعالیت های گروهی
 
